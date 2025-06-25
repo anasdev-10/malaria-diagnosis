@@ -318,32 +318,7 @@ using various metrics. The training logs show continuous improvement in
 accuracy and reduction in loss over the epochs. The validation metrics
 indicate the model's generalization capabilities.
 
-Here's a summary of the training progress (example from notebook
-output):
 
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-
-||
-||
-||
-||
-||
-
-*(Note:* *The* *table* *above* *shows* *a* *truncated* *view* *of* *the*
-*training* *logs.* *For* *complete* *results,* *refer* *to* *the*
-*logs.csv* *file* *generated* *during* *training.)*
 
 
 
