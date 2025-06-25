@@ -61,8 +61,8 @@ To set up and run this project, follow these steps:
 
 > 1\. **Clone** **the** **repository**: bash
 >
-> git clone https://github.com/your-username/malaria-diagnosis-cnn.git
-> cd malaria-diagnosis-cnn
+> git clone https://github.com/anasdev-10/malaria-diagnosis
+> cd malaria-diagnosis
 >
 > 2\. **Create** **a** **virtual** **environment** **(recommended)**:
 > bash
