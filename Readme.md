@@ -1,5 +1,5 @@
 **CNN** **Malaria** **Diagnosis**
-**Model**<img src="C:\Users\LENOVO\Downloads\CNN Malaria Diagnosis Model\y3042gtk.png"
+**Model**<img src= "https://github.com/anasdev-10/malaria-diagnosis/blob/main/y3042gtk.png"
 style="width:6.85039in;height:4.56693in" />
 
 **Project** **Overview**
